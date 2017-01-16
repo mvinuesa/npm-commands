@@ -8,6 +8,10 @@ This projects is used for npm commands documentation
 * link:https://nodejs.org/en/[What is node?]
 * link:https://docs.npmjs.com/[npm documentation]
 
+## npm install
+
+* Add all dependencies from pacakge.json
+
 ## npm publish
 
 * Publish a version in npm global
