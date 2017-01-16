@@ -1,0 +1,14 @@
+# npm-commands
+
+This projects is used for npm commands documentation
+
+## Git documentation and download
+
+* link:https://docs.npmjs.com/getting-started/what-is-npm[What is npm?]
+* link:https://nodejs.org/en/[What is node?]
+* link:https://docs.npmjs.com/[npm documentation]
+
+## npm publish
+
+* Publish a version in npm global
+* You need an account and npm adduser
