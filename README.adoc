@@ -16,3 +16,28 @@ This projects is used for npm commands documentation
 
 * Publish a version in npm global
 * You need an account and npm adduser
+
+## npm prune
+
+* Command to uninstall unused packages in package.json, uninstall from /node_module
+
+## npm start
+
+* Command used to start node application.
+
+----
+  "scripts": {
+    "start": "node <yourNodeApplication>.js"
+  },
+----
+
+## npm test
+
+* Command used to test node application.
+----
+  "scripts": {
+    "test": "istanbul cover _mocha <yourNodeTest>.js"
+  },
+----
+
+
